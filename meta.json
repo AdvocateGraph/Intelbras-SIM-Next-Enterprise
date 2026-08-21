@@ -1,0 +1,29 @@
+{
+  "repo": "intelbras-sim-next-enterprise",
+  "product": "Intelbras SIM Next Enterprise",
+  "kind": "utility",
+  "install_type": "nexpath",
+  "install_url": "https://intelbras.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "utility",
+  "topics": [
+    "intelbras",
+    "sim-next",
+    "cctv-software",
+    "surveillance-system",
+    "ip-camera-management",
+    "security-monitoring",
+    "video-surveillance",
+    "access-control",
+    "intelbras-setup-failed-fix",
+    "how-to-install-intelbras-sim",
+    "intelbras-windows",
+    "security-tools",
+    "windows-tools",
+    "surveillance-utility"
+  ],
+  "stars_cache": 21,
+  "nexpath_slug": "intelbras",
+  "nexpath_app_name": "Intelbras"
+}
